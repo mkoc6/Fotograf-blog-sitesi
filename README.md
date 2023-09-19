@@ -1,5 +1,7 @@
 # Foto-raf-blog-sitesi
 HTML-CSS ile geliştiilmiştir web mobil-tablet
-![WhatsApp Görsel 2023-09-18 saat 15 39 37](https://github.com/mkoc6/Foto-raf-blog-sitesi/assets/105784565/b5ad9e5f-8147-4346-af87-8c2e1a1173c2)
-![WhatsApp Görsel 2023-09-18 saat 15 39 51](https://github.com/mkoc6/Foto-raf-blog-sitesi/assets/105784565/62d3b255-0907-4b3d-9044-ad04fa2c936a)
-![WhatsApp Görsel 2023-09-18 saat 15 40 01](https://github.com/mkoc6/Foto-raf-blog-sitesi/assets/105784565/25009b2d-0503-4e27-8109-614d5d9ec9b5)
+
+![1](https://github.com/mkoc6/Fotograf-blog-sitesi/assets/105784565/5cb37e68-10eb-4e81-9a61-35fb081a94ec)
+![2](https://github.com/mkoc6/Fotograf-blog-sitesi/assets/105784565/9a8c6f92-456e-4010-8ff8-fb3cd376d972)
+
+![3](https://github.com/mkoc6/Fotograf-blog-sitesi/assets/105784565/43228783-8b6b-4986-8aba-477d1f8c0bfa)
